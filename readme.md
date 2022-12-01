@@ -4,6 +4,8 @@
 
 Tu peux travailler avec une découpe en tranches (comme c'est le cas pour les livres méli-mélo classiques ou les cadavres exquis), mais tu peux également explorer des compositions plus complexes où les éléments ne sont pas alignés, voire se superposent en partie.
 
+📂 Le dossier [`exemple01`](https://github.com/stluc-an/2223_an1_melimelo/tree/main/exemple01) contient, comme son nom l'indique, un premier exemple. Tu peux voir le résultat ici : [stluc-an.github.io/2223_an1_melimelo/exemple01](https://stluc-an.github.io/2223_an1_melimelo/exemple01/)
+
 ## Demande
 ### Pour réussir il faudra que
 - ton site fonctionne techniquement
