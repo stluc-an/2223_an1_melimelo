@@ -1,6 +1,6 @@
 # Mélio-mélo
 
-À l'aide d'HTML+CSS, tu va créer un méli-mélo interactif, soit une image composée de différentes parties ou de différents éléments qui changent quand on clique dessus.
+À l'aide d'HTML+CSS, tu va créer un [méli](https://www.little-crevette.fr/blog/printable-le-puzzle-meli-melo-des-animaux/)-[mélo](https://www.hugolescargot.com/activites-enfants/jeux-a-imprimer/36747-meli-melo-des-animaux/) interactif, soit une image composée de différentes parties ou de différents éléments qui changent quand on clique dessus.
 
 Tu peux travailler avec une découpe en tranches (comme c'est le cas pour les livres méli-mélo classiques ou les cadavres exquis), mais tu peux également explorer des compositions plus complexes où les éléments ne sont pas alignés, voire se superposent en partie.
 
@@ -59,5 +59,4 @@ Deux approches sont possibles :
 - [https://happysnakegames.itch.io/](https://happysnakegames.itch.io/)
 - [https://www.are.na/st-luc-an/la-collection-outils](https://www.are.na/st-luc-an/la-collection-outils)
 - [https://www.are.na/yannick-st-luc/esthetiques-low-tech](https://www.are.na/yannick-st-luc/esthetiques-low-tech)
-- 
 
