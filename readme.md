@@ -59,6 +59,7 @@ Deux approches sont possibles :
 - [https://saint-fiona-bianco-xena.fantasia-malware.net/](https://saint-fiona-bianco-xena.fantasia-malware.net/)
 - [http://www.cassiemcquater.com/angelasFlood.html](http://www.cassiemcquater.com/angelasFlood.html)
 - [https://happysnakegames.itch.io/](https://happysnakegames.itch.io/)
+- [https://www.adelfaure.net/](https://www.adelfaure.net/)
 - [https://www.are.na/st-luc-an/la-collection-outils](https://www.are.na/st-luc-an/la-collection-outils)
 - [https://www.are.na/yannick-st-luc/esthetiques-low-tech](https://www.are.na/yannick-st-luc/esthetiques-low-tech)
 
