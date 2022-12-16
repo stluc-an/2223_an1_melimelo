@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+}
+
+#next{
+    height:100vh;
+}
+
+.autofit{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
